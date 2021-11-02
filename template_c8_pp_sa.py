@@ -119,7 +119,7 @@ while True:
   if player.y>600:
       player.y=0
       
-  # Check if the value of 'over' is "True" --- Student 1
+  # Check if the value of 'over' is "True" --- Student 2
   
       # Create the text to be displayed using 'gameover_font' and naming it 'gameover_text' --- Student 2
       # Text to be displayed, "True", color are passed as arguments --- Student 2
